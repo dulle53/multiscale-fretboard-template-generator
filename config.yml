@@ -1,0 +1,9 @@
+# Reminder: all measurements in millimeters
+left_handed: false
+num_strings: 6
+long_scale_length: 630
+short_scale_length: 620
+string_spacing_at_nut: 3.5
+string_spacing_at_bridge:5
+neutral_fret: 7
+number_of_frets: 21
